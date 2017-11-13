@@ -1,0 +1,4 @@
+firefox-56.0.2
+git-2.15.0
+neovim-0.2.0
+xclip-0.13
